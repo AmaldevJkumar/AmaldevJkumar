@@ -943,4 +943,408 @@ Better data consistency through pipeline optimization
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmaldevJkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmaldevJkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaldevJkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmaldevJkumar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+---
+
+## 🎯 Current Focus & Future Goals
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+
+### 🎓 Academic Excellence
+**Completing MSc Data Science**
+- Advanced ML techniques
+- Research in neural networks
+- Deep learning specialization
+- Thesis completion (Expected Dec 2025)
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+
+### 💼 Career Growth
+**Seeking Data Analytics Roles**
+- Senior Data Analyst positions
+- Business Intelligence roles
+- Analytics Engineering
+- Data Science opportunities in UK
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+
+### 🚀 Innovation
+**Exploring Cutting-Edge Tech**
+- Generative AI & LLMs
+- Advanced MLOps practices
+- Real-time analytics
+- Open source contributions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌟 Areas of Interest
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**📊 Analytics & BI:**
+- Advanced dashboard development
+- Self-service analytics platforms
+- Real-time data monitoring
+- Executive reporting automation
+- Data democratization initiatives
+
+**🤖 Machine Learning:**
+- Predictive analytics in business
+- Customer behavior modeling
+- Churn prediction systems
+- Recommender systems
+- Time series forecasting
+
+</td>
+<td width="50%">
+
+**☁️ Cloud & Big Data:**
+- Cloud-native analytics solutions
+- Scalable data pipelines
+- Modern data stack (dbt, Snowflake)
+- Data lake architectures
+- Streaming analytics
+
+**🔬 Research Interests:**
+- Bayesian deep learning
+- Uncertainty quantification
+- Transformer architectures
+- Computer vision applications
+- NLP for business analytics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+### 💬 Open to Opportunities & Collaborations
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📧 Email
+[amaldevjayakumar@gmail.com](mailto:amaldevjayakumar@gmail.com)
+
+Direct contact for professional inquiries
+
+</td>
+<td align="center" width="25%">
+
+### 💼 LinkedIn
+[Connect on LinkedIn](https://linkedin.com/in/amaldev-p-j-389a01184/)
+
+Professional network & updates
+
+</td>
+<td align="center" width="25%">
+
+### 💻 GitHub
+[@AmaldevJkumar](https://github.com/AmaldevJkumar)
+
+View projects & contributions
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Phone
++44 7553 990 655
+
+Available for calls & meetings
+
+</td>
+</tr>
+</table>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaldev-p-j-389a01184/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevjayakumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaldevJkumar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+447553990655)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Professional Philosophy
+
+> *"Turning complex data into clear insights and actionable strategies that drive measurable business impact"*
+
+---
+
+### 🎯 What I Bring to the Table
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔍 Analytical Mindset**
+
+Strong problem-solving skills with attention to detail and data-driven decision making
+
+</td>
+<td width="33%" align="center">
+
+**💼 Business Acumen**
+
+Ability to translate technical findings into business value and strategic recommendations
+
+</td>
+<td width="33%" align="center">
+
+**🤝 Collaboration**
+
+Excellent stakeholder management and cross-functional team collaboration experience
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**📊 Technical Excellence**
+
+Proficiency in modern analytics stack and emerging technologies
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Innovation Drive**
+
+Passion for learning new technologies and implementing best practices
+
+</td>
+<td width="33%" align="center">
+
+**📈 Results Oriented**
+
+Proven track record of delivering measurable business outcomes
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎖️ Professional Highlights
+
+```yaml
+Experience Summary:
+  Total Years: 4+
+  Industry Exposure: [IT, Finance, HR, Transport, Energy, Operations]
+  Geographic Experience: [India, UK]
+  Work Style: [Agile, Cross-functional, Remote-friendly]
+  
+Key Strengths:
+  - Enterprise Analytics Solutions
+  - Predictive Modeling & ML
+  - Cloud Data Engineering
+  - Stakeholder Management
+  - Team Leadership & Mentoring
+  
+Career Goals:
+  - Expand impact through data analytics
+  - Drive data-driven culture
+  - Mentor emerging analysts
+  - Contribute to innovative projects
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Skills Proficiency Matrix
+
+<table>
+<tr>
+<td>
+
+**⭐⭐⭐⭐⭐ Expert Level**
+- Power BI
+- SQL & Database Management
+- Data Analysis & EDA
+- Business Intelligence
+- Dashboard Development
+
+</td>
+<td>
+
+**⭐⭐⭐⭐☆ Advanced Level**
+- Python (Pandas, NumPy)
+- Azure Cloud Services
+- ETL Pipeline Development
+- Machine Learning
+- Statistical Analysis
+
+</td>
+<td>
+
+**⭐⭐⭐☆☆ Proficient Level**
+- Tableau & Qlik
+- Deep Learning (PyTorch)
+- Oracle Cloud Infrastructure
+- Data Modeling
+- Predictive Analytics
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 Recognition & Impact
+
+| Category | Achievement |
+|----------|-------------|
+| 🎯 **Performance** | Consistently exceeded project delivery targets |
+| 💡 **Innovation** | Implemented automation saving 12+ hours/week |
+| 👥 **Leadership** | Mentored 5+ junior analysts |
+| 📈 **Business Impact** | Delivered 20%+ efficiency improvements |
+| 🏆 **Quality** | Maintained 30%+ data quality improvement |
+| 🤝 **Collaboration** | Led cross-functional analytics initiatives |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📅 Availability
+
+```
+Current Status    : Completing MSc Data Science
+Location          : Glasgow, United Kingdom
+Work Authorization: Student Visa (Valid)
+Available From    : January 2026 (Part-time/Flexible)
+                    Post December 2025 (Full-time)
+Preferred Roles   : Data Analyst, Business Intelligence Analyst,
+                    Analytics Engineer, Data Scientist
+Work Preference   : Hybrid / Remote / On-site
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Why Work With Me?
+
+<table>
+<tr>
+<td width="50%">
+
+**✨ Proven Track Record**
+- 4+ years of enterprise analytics experience
+- Delivered measurable business value
+- Strong portfolio of successful projects
+- Certified in leading platforms
+
+**🎓 Academic Excellence**
+- MSc Data Science (Merit)
+- Strong theoretical foundation
+- Research experience in advanced ML
+- Continuous learning mindset
+
+</td>
+<td width="50%">
+
+**🛠️ Technical Versatility**
+- Full-stack analytics capability
+- Cloud and on-premise expertise
+- Modern and legacy tools
+- Quick learner of new technologies
+
+**💼 Business-Oriented**
+- Stakeholder management skills
+- Clear communication abilities
+- Results-driven approach
+- Strategic thinking capability
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📝 Recent Blog Posts & Articles
+
+Coming Soon! Stay tuned for insights on:
+- Data Analytics Best Practices
+- Power BI Tips & Tricks
+- Machine Learning in Business
+- Career Journey in Data Science
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AmaldevJkumar&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/AmaldevJkumar?style=for-the-badge&color=00D9FF&labelColor=0D1117)
+![GitHub Stars](https://img.shields.io/github/stars/AmaldevJkumar?style=for-the-badge&color=FFD700&labelColor=0D1117)
+
+### ⚡ *Powered by data-driven insights and continuous innovation*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+---
+
+<sub>📅 Last Updated: January 2026 | 🔄 README is regularly updated with new projects and achievements</sub>
+
+**Made with ❤️ by Amaldev P J**
+
+</div>
