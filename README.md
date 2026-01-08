@@ -54,7 +54,7 @@
 📫 Contact:
   Email: "amaldevjayakumar@gmail.com"
   Phone: "+44 7553 990 655"
-  LinkedIn: "linkedin.com/in/amaldev-p-j-389a01184"
+  LinkedIn: "linkedin.com/in/amaldevpj"
   GitHub: "github.com/AmaldevJkumar"
   
 🌐 Status:
