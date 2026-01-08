@@ -59,7 +59,7 @@
   
 🌐 Status:
   Availability: "Open to Opportunities"
-  Work Auth: "UK Student Visa (Valid)"
+  Work Auth: "Graduate Visa (PSW)"
 ```
 
 </td>
